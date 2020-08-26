@@ -1,0 +1,5 @@
+﻿  main.cpp
+MSVCRTD.lib(exe_main.obj) : error LNK2019: símbolo externo _main sin resolver al que se hace referencia en la función "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+    Sugerencia sobre los símbolos definidos que podrían coincidir:
+      "int __cdecl Engine::main(void)" (?main@Engine@@YAHXZ)
+C:\Users\PcCom\Documents\Trabajando Ahora\Práctica Motores\ProyectoMotor\_Demo\projects\vs-2019\Debug\Demo.exe : fatal error LNK1120: 1 externos sin resolver

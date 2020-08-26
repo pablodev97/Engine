@@ -1,0 +1,4 @@
+C:\Users\PcCom\Documents\Trabajando Ahora\Práctica Motores\ProyectoMotor\_Demo\projects\vs-2019\x64\Debug\Engine.pdb
+C:\Users\PcCom\Documents\Trabajando Ahora\Práctica Motores\ProyectoMotor\Demo\projects\vs-2019\x64\Debug\Engine.pdb
+C:\Users\PcCom\Documents\Trabajando Ahora\Práctica Motores\ProyectoMotor\Engine\projects\vs-2019\x64\Debug\Engine.lib
+C:\Users\PcCom\Documents\Trabajando Ahora\Práctica Motores\ProyectoMotor\Engine\projects\vs-2019\x64\Debug\Engine.pdb

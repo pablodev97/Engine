@@ -1,0 +1,12 @@
+﻿  Component.cpp
+  Entity.cpp
+  InputTask.cpp
+  Kernel.cpp
+  Keyboard.cpp
+  Scene.cpp
+  Task.cpp
+  TransformComponent.cpp
+  Window.cpp
+  winmain.cpp
+  Generando código...
+  Engine.vcxproj -> C:\Users\PcCom\Documents\Trabajando Ahora\Práctica Motores\ProyectoMotor\Engine\projects\vs-2019\x64\Debug\Engine.lib
